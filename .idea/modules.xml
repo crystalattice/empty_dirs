@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../directories_to_paths/.idea/directories_to_paths.iml" filepath="$PROJECT_DIR$/../directories_to_paths/.idea/directories_to_paths.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/empty_dirs.iml" filepath="$PROJECT_DIR$/.idea/empty_dirs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../animation_remover/.idea/video_remover.iml" filepath="$PROJECT_DIR$/../animation_remover/.idea/video_remover.iml" />
+    </modules>
+  </component>
+</project>
